@@ -18,5 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+board: [ "seeeduino_xiao" ]
+shield: [ "GuitarHero" ]
 include:
-  - board: nice60
+  - board: seeeduino_xiao
+    shield: GuitarHero

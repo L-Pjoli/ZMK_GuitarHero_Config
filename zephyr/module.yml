@@ -1,3 +1,4 @@
+name: GuitarHero
 build:
   settings:
     board_root: .
