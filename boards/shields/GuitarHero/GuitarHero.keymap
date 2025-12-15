@@ -18,7 +18,7 @@
             // Green: F13 | Red: F14 | yellow : F15 | Blue: F16 | Orange: F17 | Button1: F18 | Button2: F19 | StrumUp: F20 | StrumDown: F21
 
             bindings = <
-                &kp F13   &kp F14   &kp F15   &kp F16  &kp F17  &kp F18  &kp F19  &kp F20  &kp F21
+                &kp g   &kp r   &kp y   &kp b  &kp o  &kp 1  &kp 2  &kp 3  &kp 4
             >;
         };
     };
