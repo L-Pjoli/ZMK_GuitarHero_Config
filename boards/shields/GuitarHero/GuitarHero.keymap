@@ -15,7 +15,7 @@
 
         default_layer {
             display-name = "Default Layer";
-            // Green: F13 | Red: F14 | yellow : F15 | Blue: F16 | Orange: F17 | Button1: F18 | Button2: F19 | StrumUp: F20 | StrumDown: F21
+            // Green: G | Red: R | yellow : Y | Blue: B | Orange: O | Button1: 1 | Button2: 2 | StrumUp: 3 | StrumDown: 4
 
             bindings = <
                 &kp G   &kp R   &kp Y   &kp B  &kp O  &kp N1  &kp N2  &kp N3  &kp N4
